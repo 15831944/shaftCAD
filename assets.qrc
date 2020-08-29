@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>assets/icon-toolbar/help.png</file>
+        <file>assets/icon-toolbar/input.png</file>
+        <file>assets/icon-toolbar/new_file.png</file>
+        <file>assets/icon-toolbar/open_file.png</file>
+        <file>assets/icon-toolbar/param.png</file>
+        <file>assets/icon-toolbar/project_info.png</file>
+        <file>assets/icon-toolbar/save.png</file>
+        <file>assets/icon-toolbar/saveas.png</file>
+        <file>assets/tool/add.png</file>
+    </qresource>
+    <qresource prefix="/shape">
+        <file>assets/shape/bottom_arc.png</file>
+        <file>assets/shape/circle_arc.png</file>
+        <file>assets/shape/rec.png</file>
+        <file>assets/shape/trap.png</file>
+        <file>assets/shape/triple_arc.png</file>
+    </qresource>
+    <qresource prefix="/bg">
+        <file>assets/background.png</file>
+        <file>assets/background2.png</file>
+    </qresource>
+</RCC>
